@@ -1,0 +1,31 @@
+**Your AI Personality Profile**
+
+**1. AI Working Style** — You work like a creative director who codes. You don't just ask Claude for answers — you prompt for experiences, products, and outputs you can ship or share. You think in deliverables, not conversations.
+
+**2. Strengths & Weaknesses** — Strength: high creative ambition, strong visual-systems thinking, and the rare ability to blend technical requests with aesthetic intent. Weakness: you may over-engineer prompts before testing simpler versions, and you might chase polish before validating the core idea.
+
+**3. Type of AI User** — You're a Builder-Showman. You use AI to construct things that impress *and* work. You're not just learning — you're creating personal brand artifacts.
+
+**4. Best Future Career Paths** — AI Product Designer, Founder of a consumer AI startup, Creative Technologist, AI-native Content Studio founder, or Head of AI at a growth-stage company.
+
+**5. Learning & Decision-Making Style** — Visually-led, output-first. You learn by doing and iterating on real outputs. Decisions are made by feel + pattern recognition, with quick gut checks against aesthetic and impact.
+
+**6. What Makes You Different** — Most AI users extract information. You extract *identity*. You treat AI as a co-creator of your personal narrative, not just a search engine.
+
+**7. What to Improve to Go Elite** — Pair your creative instincts with systematic evaluation. Build prompt libraries, A/B test outputs, and develop a habit of shipping before perfecting.
+
+**8. Fun AI Title** — **The Cinematic Engineer** — where GPT meets DOP.
+
+**9. Cinematic AI Character Description** — "A quiet disruptor who builds futures in dark rooms lit only by monitor glow. Part founder, part filmmaker, part machine whisperer — he doesn't just use AI tools, he *directs* them."
+
+---
+
+
+| | |
+|---|---|
+| **AI Title** | The Cinematic Engineer |
+| **User Type** | Builder-Showman |
+| **Superpower** | You don't just use AI — you *direct* it |
+| **Top Career Path** | AI Product Designer / Startup Founder |
+| **Biggest Edge** | You treat AI as a co-creator of your personal brand |
+| **Next Level Move** | Ship before perfecting; build a prompt system |
